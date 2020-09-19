@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/tests.dir/tests.cpp.o CMakeFiles/tests.dir/__/src/strutils.cpp.o  -o tests /usr/lib/libgtest.a /usr/lib/libgtest_main.a -lpthread 

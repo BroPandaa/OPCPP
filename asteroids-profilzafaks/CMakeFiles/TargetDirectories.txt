@@ -1,0 +1,7 @@
+/home/fabo/OPC++/asteroids-profilzafaks/CMakeFiles/rebuild_cache.dir
+/home/fabo/OPC++/asteroids-profilzafaks/CMakeFiles/test.dir
+/home/fabo/OPC++/asteroids-profilzafaks/CMakeFiles/edit_cache.dir
+/home/fabo/OPC++/asteroids-profilzafaks/src/CMakeFiles/rebuild_cache.dir
+/home/fabo/OPC++/asteroids-profilzafaks/src/CMakeFiles/edit_cache.dir
+/home/fabo/OPC++/asteroids-profilzafaks/src/CMakeFiles/main.dir
+/home/fabo/OPC++/asteroids-profilzafaks/src/CMakeFiles/test.dir

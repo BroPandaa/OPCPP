@@ -1,0 +1,3 @@
+/home/mint/OPC++/string2-profilzafaks/test/CMakeFiles/rebuild_cache.dir
+/home/mint/OPC++/string2-profilzafaks/test/CMakeFiles/tests.dir
+/home/mint/OPC++/string2-profilzafaks/test/CMakeFiles/edit_cache.dir

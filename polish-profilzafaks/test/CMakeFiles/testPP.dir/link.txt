@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/testPP.dir/test.cpp.o CMakeFiles/testPP.dir/__/evaluate_prefix.cpp.o CMakeFiles/testPP.dir/__/evaluate_postfix.cpp.o  -o testPP ../libgoogletest.a -lpthread 

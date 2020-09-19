@@ -1,0 +1,9 @@
+/home/mint/OPC++/polish-profilzafaks/CMakeFiles/rebuild_cache.dir
+/home/mint/OPC++/polish-profilzafaks/CMakeFiles/test.dir
+/home/mint/OPC++/polish-profilzafaks/CMakeFiles/googletest.dir
+/home/mint/OPC++/polish-profilzafaks/CMakeFiles/edit_cache.dir
+/home/mint/OPC++/polish-profilzafaks/CMakeFiles/main.dir
+/home/mint/OPC++/polish-profilzafaks/test/CMakeFiles/rebuild_cache.dir
+/home/mint/OPC++/polish-profilzafaks/test/CMakeFiles/edit_cache.dir
+/home/mint/OPC++/polish-profilzafaks/test/CMakeFiles/testPP.dir
+/home/mint/OPC++/polish-profilzafaks/test/CMakeFiles/test.dir

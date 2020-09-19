@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mint/OPC++/string2-profilzafaks/include/strutils.h
+string
+-
+vector
+-
+
+/home/mint/OPC++/string2-profilzafaks/src/strutils.cpp
+../include/strutils.h
+/home/mint/OPC++/string2-profilzafaks/include/strutils.h
+cctype
+-
+string
+-
+algorithm
+-
+vector
+-
+sstream
+-
+
+/home/mint/OPC++/string2-profilzafaks/test/tests.cpp
+gtest/gtest.h
+/home/mint/OPC++/string2-profilzafaks/test/gtest/gtest.h
+string
+-
+../include/strutils.h
+/home/mint/OPC++/string2-profilzafaks/include/strutils.h
+
